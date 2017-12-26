@@ -3,7 +3,7 @@ Social wall slideshow using Python language
 
 This demo project uses py-slideshow [https://github.com/cgoldberg/py-slideshow](https://github.com/cgoldberg/py-slideshow)
 
-#Requirements:
+# Requirements:
 
  . Python 3.6.2
 
@@ -11,7 +11,7 @@ This demo project uses py-slideshow [https://github.com/cgoldberg/py-slideshow](
 
  . urllib3
 
-#Command line help:
+# Command line help:
 
 usage: slideshow.py dir
 
@@ -19,6 +19,6 @@ positional arguments:
 
 dir    directory to use for downloading
 
-#Example:
+# Example:
 
 python slideshow.py ./images
