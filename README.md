@@ -22,3 +22,15 @@ dir    directory to use for downloading
 # Example:
 
 python slideshow.py ./images
+
+# Installation
+
+1. mkdir testfolder
+2. cd testfolder
+3. git clone https://github.com/socialmediawall-io/Python-Socialwall-Slideshow.git
+4. cd Python-Socialwall-Slideshow
+5. virtualenv .
+6. source Scripts/activate
+7. pip install pyglet
+8. pip install urllib3
+9. python slideshow.py ./images
